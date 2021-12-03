@@ -1,5 +1,5 @@
 # FUTURA
-# Iteracion #1. Data Models
+# Iteración #1. Data Models
 
 Componentes del grupo:
 * Alberto Mendoza Rodríguez (alu0101217741@ull.edu.es)
